@@ -31,8 +31,7 @@
 
 1. [核电与风电 AI 合作及落地情况调研](docs/common/nuclear-wind-ai-application-research.md)
 2. [核电与风电数据情况调研](docs/common/nuclear-wind-data-research.md)
-3. [项目范围](docs/common/project-scope.md)
-4. [RAG、微调和专属模型判断](docs/common/model-routing-guide.md)
+3. [RAG、微调和专属模型判断](docs/common/model-routing-guide.md)
 
 ## 场景确定后的两份材料
 
