@@ -1,0 +1,17 @@
+# Local credentials and environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Partner/public data and derived artifacts are not versioned by default
+data/
+artifacts/
+models/
+indexes/
+
+# Local caches
+__pycache__/
+*.pyc
+.DS_Store
